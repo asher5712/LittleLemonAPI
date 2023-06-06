@@ -1,0 +1,28 @@
+User IDs
+
+
+1. Admin User
+
+username: admin
+password: lemon@123!
+
+
+2. Manager User
+
+username: Sana
+password: lemon@san!
+
+
+3. Delivery User
+
+username: Adrian
+password: lemon@adr!
+
+
+4. Customer User
+
+username: Mario
+password: lemon@mar!
+
+username: Heer
+password: lemon@hee!
